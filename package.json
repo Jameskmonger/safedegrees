@@ -22,5 +22,14 @@
   },
   "modunit": {
     "reporter": "tap-heart"
-  }
+  },
+  "keywords": [
+    "degrees",
+    "circle",
+    "360",
+    "maths",
+    "math",
+    "gamedev",
+    "game"
+  ]
 }
