@@ -1,0 +1,18 @@
+{
+  "name": "safedegrees",
+  "version": "0.0.1",
+  "description": "Add degree angles and get a result between 0 and 359.",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jameskmonger/safedegrees.git"
+  },
+  "author": "James Monger <jameskmonger@hotmail.co.uk> (https://jamesmonger.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jameskmonger/safedegrees/issues"
+  },
+  "homepage": "https://github.com/Jameskmonger/safedegrees#readme"
+}
