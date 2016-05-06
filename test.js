@@ -28,3 +28,10 @@ test('180 minus 270 returns 90', t => {
     t.assert.equal(90, output);
 
 });
+
+test('5 minus 10 returns 355', t => {
+
+    let output = safedegrees(5, -10);
+    t.assert.equal(355, output);
+
+});
