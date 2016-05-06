@@ -21,3 +21,10 @@ test('270 add 180 returns 90', t => {
     t.assert.equal(90, output);
 
 });
+
+test('180 minus 270 returns 90', t => {
+
+    let output = safedegrees(180, -270);
+    t.assert.equal(90, output);
+
+});
