@@ -4,7 +4,7 @@ Add degree angles and get a result between 0 and 359.
 
 ## Installation
 
-   npm install safedegrees
+    npm install safedegrees
 
 ## Usage
 
