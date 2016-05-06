@@ -3,8 +3,7 @@
   "version": "0.0.1",
   "description": "Add degree angles and get a result between 0 and 359.",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Jameskmonger/safedegrees.git"
@@ -14,5 +13,8 @@
   "bugs": {
     "url": "https://github.com/Jameskmonger/safedegrees/issues"
   },
-  "homepage": "https://github.com/Jameskmonger/safedegrees#readme"
+  "homepage": "https://github.com/Jameskmonger/safedegrees#readme",
+  "devDependencies": {
+    "modunit": "^0.3.0"
+  }
 }
