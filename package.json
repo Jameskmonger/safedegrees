@@ -15,6 +15,7 @@
   },
   "homepage": "https://github.com/Jameskmonger/safedegrees#readme",
   "devDependencies": {
-    "modunit": "^0.3.0"
+    "modunit": "^0.3.0",
+    "tap-heart": "^0.2.1"
   }
 }
