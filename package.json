@@ -18,7 +18,8 @@
   "homepage": "https://github.com/Jameskmonger/safedegrees#readme",
   "devDependencies": {
     "modunit": "^0.3.0",
-    "tap-heart": "^0.2.1"
+    "tap-heart": "^0.2.1",
+    "eslint": "^2.9.0"
   },
   "modunit": {
     "reporter": "tap-heart"
